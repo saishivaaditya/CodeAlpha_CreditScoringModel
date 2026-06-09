@@ -1,5 +1,14 @@
 # CodeAlpha_CreditScoringModel
 Dataset available from Kaggle Home Credit Default Risk Competition.
+## Dataset
+
+This project uses the Home Credit Default Risk dataset available on Kaggle.
+
+Dataset Link:
+https://www.kaggle.com/competitions/home-credit-default-risk
+
+Due to dataset size and licensing considerations, raw CSV files are not included in this repository. Users can download the dataset directly from Kaggle and place the required files in the project data folder.
+
 
 # Credit Risk Scoring System
 
